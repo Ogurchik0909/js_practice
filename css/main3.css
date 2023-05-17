@@ -1,0 +1,9 @@
+body{
+    background-image: url("../rasm/3200184.webp");
+    background-size: 100% 969px;
+    background-repeat: repeat-y;
+    /*background-repeat: no-repeat;*/
+}
+.container{
+    background-color: rgba(189,227,255,0.31);
+}
